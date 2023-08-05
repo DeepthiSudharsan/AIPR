@@ -1,4 +1,4 @@
-# AIPR - AIDING IN PRINTING REFERENCES
+# AIPR - Aiding IN Printing References
 
 > **Note**
 This project was made for fun and since then has not been actively maintained. Hence, the repo is open for contributors who would like to improve and add functionalities or make any fixes. I will ensure that the PR is attended to ASAP. 
