@@ -1,10 +1,14 @@
 # AIPR - Aiding In Printing References
 
 > **Note**
-This project was made for fun and since then has not been actively maintained. Hence, the repo is open for contributors who would like to improve and add functionalities or make any fixes. I will ensure that the PR is attended to ASAP. 
+This project was made for fun and since then has not been actively maintained. Hence, the repo is open for contributors who would like to improve and add functionalities or make any fixes. Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 > :information_source: **Additional Information**: <br>
 To know more about the story of this project, kindly check the respective footnote. [^1].
+
+```
+When printing a page or document, there might be certain hyperlinks or references that might also have to be looked at for a better grasp of the contents of the document/page. AIPR will help convert those hyperlink contents into PDF and merge it with the PDF you are planning to print and give you the final merged copy so you don't have to rely on manually searching up those links and can just enjoy with your hard copy. 
+```
 
 > **Important**
 The current version has been deployed on Streamlit :
@@ -17,13 +21,13 @@ The current version has been deployed on Streamlit :
     ├── packages.txt             # Packages.txt file (package requirements to run the application)
     ├── setup.sh                 # Bash script
     ├── Procfile                 # Commands to be executed by Streamlit on startup
-    └── README.md                # Supporting Documenation
+    └── README.md                # Supporting Documentation
 
 ## Streamlit web app implementation of the project. 
 
 ### Pre-requisites to run Streamlit app locally :
 
-Make sure to install streamlit if haven't already, to install streamlit use the following command :
+Make sure to install Streamlit if haven't already, to install Streamlit use the following command :
 
 ```
 pip install streamlit
