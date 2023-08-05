@@ -59,6 +59,8 @@ streamlit run app.py
 ```
 The app will start running, and you should see a message indicating that the app is available at a specific URL (usually http://localhost:8501).
 
+P.S., while you are at it, could you check out the Medium link on it [here](https://medium.com/@deepthi.sudharsan/tired-of-print-outs-with-hyperlink-references-aipr-might-be-your-solution-1d6650b434a1)? It would really help me grow as a blogger! Thank you 🤗!
+
 ### TO-DO TASK LIST 
 - [ ] Add functionality for input file documents (just like the URL functionality right now)
 - [ ] Bug Fix: Add some type of support for the reference links that could not be converted to PDFs (at least just providing the links to these URLs at the end)
