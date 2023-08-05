@@ -8,7 +8,7 @@ To know more about the story of this project, kindly check the respective footno
 
 > **Important**
 The current version has been deployed on Streamlit :
-[![Streamlit App]https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]https://printaid.streamlit.app/)
+[![Streamlit App]https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://printaid.streamlit.app/)
 
 ## Streamlit web app implementation of the project. 
 
