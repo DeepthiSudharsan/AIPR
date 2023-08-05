@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.2
+lxml==4.9.3
+pdfkit==1.0.0
+pypdf==3.14.0
+requests==2.31.0
+streamlit==1.25.0
+streamlit-card==0.0.61
+streamlit-tags==1.2.8
+urllib3==2.0.4
