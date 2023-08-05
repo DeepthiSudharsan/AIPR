@@ -42,5 +42,17 @@ $ pip install -r requirements.txt
 ```
 $ streamlit run app.py
 ```
+### TO-DO TASK LIST 
+- [ ] Add functionality for input file documents (just like the URL functionality right now)
+- [ ] Bug Fix: Add some type of support for the reference links that could not be converted to PDFs (at least just providing the links to these URLs at the end)
+- [ ] Improve the overall UI for the application
+- [ ]  Transition from Streamlit Deployment to creating a Chrome/Browser extension for the same.
+- [x] Feel free to add more tasks and contribute to this project!  
+Note: Some of the above tasks (at least 1 - 3) are relatively beginner friendly and easy to do provided you have good understanding of the code so far.
+
+### CONTRIBUTORS
+
+[//]: contributor-faces
+<a href="https://github.com/DeepthiSudharsan"><img src="https://avatars.githubusercontent.com/u/59824729?v=4" title="DeepthiSudharsan" width="80" height="80"></a>
 
 [^1]: This fun little project started off as a joke about my laziness. I had printed one document for studying so I can read it whenever I want and wherever I want but eventually realized that the document consisted of way too many hyperlinks to different references which I need to visit and learn to get a good grasp of the discussion in the document. But this meant that I had to use some device yet again. And this was my 30-minute solution to such a silly thing!
