@@ -13,6 +13,10 @@ When printing a page or document, there might be certain hyperlinks or reference
 The current version has been deployed on Streamlit :
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://printaid.streamlit.app/)
 
+### AIPR Workflow
+
+![image](https://github.com/DeepthiSudharsan/AIPR/assets/59824729/48a87849-1ea0-489c-9f34-f14be0bae9b7)
+
 ### File Structure
     .
     ├── app.py                   # Streamlit Application Script
