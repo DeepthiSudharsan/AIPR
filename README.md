@@ -7,7 +7,8 @@ This project was made for fun and since then has not been actively maintained. H
 To know more about the story of this project, kindly check the respective footnote. [^1].
 
 > **Important**
-The current version has been deployed on Streamlit : [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://printaid.streamlit.app/)
+The current version has been deployed on Streamlit :
+[![Streamlit App]https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]https://printaid.streamlit.app/)
 
 ## Streamlit web app implementation of the project. 
 
