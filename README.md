@@ -22,45 +22,46 @@ The current version has been deployed on Streamlit :
     ├── Procfile                 # Commands to be executed by Streamlit on startup
     └── README.md                # Supporting Documentation
 
-## Streamlit web app implementation of the project. 
+## Prerequisites
 
-### Pre-requisites to run Streamlit app locally :
+Before running the Streamlit app, you need to have the following installed:
+```
+- Python 3.9 or later
+- pip (Python package manager)
+```
 
-Make sure to install Streamlit if haven't already, to install Streamlit use the following command :
+## Installation
 
-```
-pip install streamlit
-```
-All the package requirements along with the versions have been mentioned in the requirements.txt file. Running the code is as simple as going to your Anaconda Prompt, navigating to the directly with your streamlit py files, and running the command 
-```
-$ streamlit run app.py
-```
-### How to run?
+To set up the app and run it locally, follow these steps:
 
-* Clone the repository
-* Setup Virtual environment
+1. Clone the repository:
 ```
-$ python3 -m venv env
+   ```bash
+   git clone https://github.com/your-username/your-repository.gi](https://github.com/DeepthiSudharsan/AIPR.git
+   cd AIPR
 ```
-* Activate the virtual environment and go to the streamlit folder
+2. Install the requirements dependencies:
 ```
-$ source env/bin/activate
+   pip install -r requirements.txt
 ```
-* Install dependencies using
+3. Download the wkhtmltopdf binary:
 ```
-$ pip install -r requirements.txt
+- Download the appropriate wkhtmltopdf binary for your platform.
+- Save the binary to the root folder of the repository.
 ```
-* Run Streamlit
+4. Once the installation is complete, run the Streamlit app using the following command:
 ```
-$ streamlit run app.py
+streamlit run app.py
 ```
+The app will start running, and you should see a message indicating that the app is available at a specific URL (usually http://localhost:8501).
+
 ### TO-DO TASK LIST 
 - [ ] Add functionality for input file documents (just like the URL functionality right now)
 - [ ] Bug Fix: Add some type of support for the reference links that could not be converted to PDFs (at least just providing the links to these URLs at the end)
 - [ ] Improve the overall UI for the application
 - [ ]  Transition from Streamlit Deployment to creating a Chrome/Browser extension for the same.
 - [x] Feel free to add more tasks and contribute to this project!  
-Note: Some of the above tasks (at least 1 - 3) are relatively beginner friendly and easy to do provided you have good understanding of the code so far.
+Note: Some of the above tasks (at least 1 - 3) are relatively beginner friendly and easy to do provided you have a good understanding of the code so far.
 
 ### CONTRIBUTORS
 
