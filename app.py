@@ -52,7 +52,6 @@ else:
             with tempfile.NamedTemporaryFile(suffix='.pdf', delete=False) as temp_pdf:
                 st.toast(f"Processing url {url}")
                 pdfkit.from_url(url, temp_pdf.name)
-                st.toast("TEST.......")
                 merger.append(temp_pdf)
                 st.toast("Converted to PDF...")
         except Exception as e:
