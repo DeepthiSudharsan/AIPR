@@ -6,9 +6,8 @@ This project was made for fun and since then has not been actively maintained. H
 > :information_source: **Additional Information**: <br>
 To know more about the story of this project, kindly check the respective footnote. [^1].
 
-```
+> 💡**Idea**:
 When printing a page or document, there might be certain hyperlinks or references that might also have to be looked at for a better grasp of the contents of the document/page. AIPR will help convert those hyperlink contents into PDF and merge it with the PDF you are planning to print and give you the final merged copy so you don't have to rely on manually searching up those links and can just enjoy with your hard copy. 
-```
 
 > **Important**
 The current version has been deployed on Streamlit :
