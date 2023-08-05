@@ -10,6 +10,15 @@ To know more about the story of this project, kindly check the respective footno
 The current version has been deployed on Streamlit :
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://printaid.streamlit.app/)
 
+### File Structure
+    .
+    ├── app.py                   # Streamlit Application Script
+    ├── requirements.txt         # Requirements file (libraries with their versions)
+    ├── packages.txt             # Packages.txt file (package requirements to run the application)
+    ├── setup.sh                 # Bash script
+    ├── Procfile                 # Commands to be executed by Streamlit on startup
+    └── README.md                # Supporting Documenation
+
 ## Streamlit web app implementation of the project. 
 
 ### Pre-requisites to run Streamlit app locally :
